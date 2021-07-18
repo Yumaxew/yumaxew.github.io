@@ -16,10 +16,10 @@ var menuIcon = document.getElementById('iconMenu');
 
 window.addEventListener('scroll', function(){
     if(this.window.pageYOffset > 100) {
-        menuIcon.style.color = '#FFFFFF';
+        menuIcon.style.color = 'transparent';
 
     }else{
-        menuIcon.style.color = 'transparent';
+        menuIcon.style.color = '#1A1A1A';
 
     }
 });
