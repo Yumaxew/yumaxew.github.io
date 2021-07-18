@@ -19,7 +19,7 @@ window.addEventListener('scroll', function(){
         menuIcon.style.color = '#FFFFFF';
 
     }else{
-        menuIcon.style.color = '#1A1A1A';
+        menuIcon.style.color = 'transparent';
 
     }
 });
