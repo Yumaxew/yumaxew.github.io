@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+.banner-image {
+    background-color: #FFF;
+}
+
+.navbar-brand {
+    color: #5B39E9 !important;
+    
+}
+
+.nav-link {
+    color: #1A1A1A !important;
+    
+}
+
+.nav-link:hover {
+    color: #5B39E9 !important;
+}
